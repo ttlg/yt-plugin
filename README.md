@@ -6,7 +6,6 @@ Voice notifications and terminal bell plugin for Claude Code.
 
 | Event | Action |
 |-------|--------|
-| **UserPromptSubmit** | Reads your prompt aloud |
 | **Notification** | Voice + terminal bell for permission prompts |
 | **Stop** | Says "Task finished" |
 
