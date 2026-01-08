@@ -1,0 +1,15 @@
+{
+  "name": "claude-notifications-marketplace",
+  "description": "Voice notifications and terminal bell plugins for Claude Code",
+  "owner": {
+    "name": "yoishika"
+  },
+  "plugins": [
+    {
+      "name": "claude-notifications",
+      "description": "Voice notifications and terminal bell for Claude Code events",
+      "source": ".",
+      "version": "1.0.0"
+    }
+  ]
+}
