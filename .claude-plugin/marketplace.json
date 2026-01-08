@@ -1,4 +1,5 @@
 {
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "claude-notifications-marketplace",
   "description": "Voice notifications and terminal bell plugins for Claude Code",
   "owner": {
@@ -8,8 +9,12 @@
     {
       "name": "claude-notifications",
       "description": "Voice notifications and terminal bell for Claude Code events",
-      "source": ".",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "author": {
+        "name": "yoishika"
+      },
+      "source": "./",
+      "category": "productivity"
     }
   ]
 }
