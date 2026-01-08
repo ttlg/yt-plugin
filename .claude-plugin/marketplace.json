@@ -1,6 +1,6 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "claude-notifications-marketplace",
+  "name": "yt-market",
   "description": "Voice notifications and terminal bell plugins for Claude Code",
   "owner": {
     "name": "yoishika"
