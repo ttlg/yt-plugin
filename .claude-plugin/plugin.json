@@ -1,0 +1,8 @@
+{
+  "name": "claude-notifications",
+  "version": "1.0.0",
+  "description": "Voice notifications and terminal bell for Claude Code events",
+  "author": {
+    "name": "yoishika"
+  }
+}
